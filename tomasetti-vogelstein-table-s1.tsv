@@ -1,4 +1,4 @@
-Cancer_type	Lifetime_cancer_incidence	Total_cells_tissue	Total_Stem_Cells	Stem_cell_divisions_per_year	Stem_cell_divisions_per_lifetime	LCSD
+Cancer_type	Lifetime_cancer_incidence	Total_cells_tissue	Total_Stem_Cells	Stem_cell_divisions_per_year	Stem_cell_divisions_per_lifetime	LSCD
 ALL	0.0041	3000000000000	135000000	12	960	129900000000
 BCC	0.3	180000000000	5820000000	7.6	608	3550000000000
 CLL	0.0052	3000000000000	135000000	12	960	129900000000
