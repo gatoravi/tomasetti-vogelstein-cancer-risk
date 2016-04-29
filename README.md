@@ -1,4 +1,4 @@
-![tomasetti-vogelstein-cancer-risk](https://github.com/gatoravi/ggrepel
+![tomasetti-vogelstein-cancer-risk](https://github.com/gatoravi/tomasetti-vogelstein-cancer-risk/blob/master/tomasetti-vogelstein-table-s1.png)
 
 To re-create the plot:
 ```
